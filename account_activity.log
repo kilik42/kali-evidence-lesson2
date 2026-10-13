@@ -1,0 +1,4 @@
+2026-10-08 08:02 user=maya action=VIEW_ASSIGNMENTS device=school-chromebook
+2026-10-08 08:20 user=maya action=CHANGE_RECOVERY_EMAIL device=unknown
+2026-10-08 08:21 user=maya action=EXPORT_CONTACTS device=unknown
+2026-10-08 08:25 user=maya action=REPORT_SUSPICIOUS_ACTIVITY device=school-chromebook

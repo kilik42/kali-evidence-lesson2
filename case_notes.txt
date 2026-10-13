@@ -1,0 +1,5 @@
+CASE ID: KALI-002 (FICTIONAL)
+Student: Maya (fictional)
+Student statement: I signed in from my school Chromebook at 08:01. I did not change my recovery email or export contacts. I noticed something strange around 08:25.
+Analyst reminder: An unknown device label or external-looking IP does not prove identity or location. Correlate records and preserve uncertainty.
+All IP addresses and names are fictional. 198.51.100.42 is from a documentation-only address range.
